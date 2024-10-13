@@ -53,11 +53,18 @@ Layout
     in:main
     contains:Achievements
     header:Achievements
-Buttons
 
+Buttons
 *clickButton
   name:Click the PC
   desc:Click this to earn more clicks. Each click generates 1 click.
   icon:https://cdn4.iconfinder.com/data/icons/VISTA/computer_gadgets/png/400/desktop_computer.png
   on click:yield 1 clicks
   show clicks
+
+Resources
+*clicks
+  name:Click|Clicks
+  desc:This represents the clicks you generate by clicking the PC. Earn more clicks to buy upgrades and buildings.
+  show earned
+  show max
