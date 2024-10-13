@@ -1,8 +1,9 @@
 Let's make a game!
-name: PC Clicker
-author: PepperMarioYT
-by: PepperMarioYT
-desc: Click to earn clicks and upgrade your PC! Can you reach the ultimate click power?
-created: 13/10/2024
-updated: 13/10/2024
-version: 1.0
+
+name:PC Clicker          // The title of the game
+author:PepperMarioYT     // Your name
+by:PepperMarioYT         // Repeats your name for clarity
+desc:Click to earn clicks and upgrade your PC! Can you reach the ultimate click power? // Game description
+created:13/10/2024       // Creation date
+updated:13/10/2024       // Last updated date
+version:1.0              // Version of the game
