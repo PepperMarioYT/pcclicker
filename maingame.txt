@@ -23,5 +23,5 @@ building cost refund:50%
 spritesheet:icons, 48 by 48, url.jpg
 // Define a spritesheet for icons
 
-stylesheet:url.txt
+stylesheet:https://raw.githubusercontent.com/PepperMarioYT/pcclicker/refs/heads/main/cssstylesheet.txt
 // Add a custom CSS stylesheet for styling the game's interface
