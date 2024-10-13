@@ -53,3 +53,11 @@ Layout
     in:main
     contains:Achievements
     header:Achievements
+Buttons
+
+*clickButton
+  name:Click the PC
+  desc:Click this to earn more clicks. Each click generates 1 click.
+  icon:https://raw.githubusercontent.com/PepperMarioYT/pcclicker/refs/heads/main/pc-icon.jpg
+  on click:yield 1 clicks
+  show clicks
