@@ -11,7 +11,7 @@ version:1.0
 // You can customize the details as you like
 
 Settings
-background:url.jpg
+background:https://github.com/PepperMarioYT/pcclicker/blob/main/img27.jpg?raw=true
 // Set the background image for the game
 
 building cost increase:115%
