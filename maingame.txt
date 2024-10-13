@@ -9,3 +9,19 @@ version:1.0
 
 // This is the beginning of the game setup
 // You can customize the details as you like
+
+Settings
+background:url.jpg
+// Set the background image for the game
+
+building cost increase:115%
+// Each time you buy a building, its cost will increase by 15%
+
+building cost refund:50%
+// When selling a building, you get 50% of its cost back
+
+spritesheet:icons, 48 by 48, url.jpg
+// Define a spritesheet for icons
+
+stylesheet:url.txt
+// Add a custom CSS stylesheet for styling the game's interface
