@@ -54,6 +54,13 @@ Layout
     contains:Achievements
     header:Achievements
 
+Resources
+*clicks
+  name:Click|Clicks
+  desc:This represents the clicks you generate by clicking the PC. Earn more clicks to buy upgrades and buildings.
+  show earned
+  show max
+
 Buttons
 *clickButton
   name:Click the PC
@@ -62,9 +69,4 @@ Buttons
   on click:yield 1 clicks
   show clicks
 
-Resources
-*clicks
-  name:Click|Clicks
-  desc:This represents the clicks you generate by clicking the PC. Earn more clicks to buy upgrades and buildings.
-  show earned
-  show max
+
