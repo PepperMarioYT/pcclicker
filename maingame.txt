@@ -66,7 +66,7 @@ Buttons
   name:Click the PC
   desc:Click this to earn more clicks. Each click generates 1 click.
   icon:https://cdn4.iconfinder.com/data/icons/VISTA/computer_gadgets/png/400/desktop_computer.png
-  on click:yield 1 clicks
+//  on click:yield 1 clicks
   show clicks
 
 
