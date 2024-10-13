@@ -25,3 +25,31 @@ spritesheet:icons, 48 by 48, url.jpg
 
 stylesheet:https://raw.githubusercontent.com/PepperMarioYT/pcclicker/refs/heads/main/cssstylesheet.txt
 // Add a custom CSS stylesheet for styling the game's interface
+
+Layout
+  *main
+    contains:resources, buttons
+    *resources
+      contains:Resources
+      header:These are your resources.
+      names:show
+      costs:show
+    *buttons
+      contains:Buttons
+
+  *store
+    contains:buildings, upgrades
+    *buildings
+      contains:BulkDisplay, Buildings
+      header:Buildings
+      tooltip origin:left
+    *upgrades
+      contains:Upgrades
+      header:Upgrades
+      costs:hide
+      names:hide
+
+  *achievements
+    in:main
+    contains:Achievements
+    header:Achievements
