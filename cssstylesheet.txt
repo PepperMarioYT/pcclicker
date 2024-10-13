@@ -5,7 +5,7 @@
 {
     background: #f0f8ff; /* Alice Blue background */
     font-family: "Arial", sans-serif; /* Change to a more modern font */
-    color: #333; /* Dark gray text color for readability */
+    color: #fff; /* Dark gray text color for readability */
 }
 
 /* Style for all clickable items (buttons, buildings) */
